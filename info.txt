@@ -1,0 +1,33 @@
+AI WEBSCRAPER
+
+create a virtual environment : python -m venv ai
+
+-\ai\Scripts\activate.ps1
+
+requirements.txt:
+streamlit 
+langchain 
+langchain_ollama
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+
+install the requirements : pip install -r requirements.txt
+
+to run : streamlit run main.py
+
+make a folder main.py :
+1. create a very simple streamlit interface
+2. grab data from the website that we want to scrape : we use selenium
+we do that with scrape.py
+
+download the chrome driver and paste it in the same folder
+3. cleaning dom
+
+4. split the content for llm and parse it
+
+5. run llms locally on your computer ollama
+
+AIzaSyDXwXkdwMe1DrnwTvXSJlLO6fuBCRrSLUU	
