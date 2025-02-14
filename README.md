@@ -15,3 +15,4 @@ LangChain: Integrating language models
 
 Ollama: Open-source language model for content processing
 
+![image](https://github.com/user-attachments/assets/e1c58044-5105-4ecf-bdde-9e5a5379191f)
