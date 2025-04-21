@@ -1,10 +1,9 @@
-streamlit 
-langchain 
-langchain_ollama
+streamlit
+langchain
+langchain-ollama
 beautifulsoup4
-lxml 
+lxml
 html5lib
 python-dotenv
 selenium==4.15.2
 webdriver-manager==4.0.2
-
